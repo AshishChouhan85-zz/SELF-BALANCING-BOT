@@ -14,5 +14,5 @@ increases, moment of inertia of the upper floor increases and thus its angular a
 as we will increase the mass of upper floor of the robot, it will deviate less from its mean position.
 
 # CURRENT WORKING VIDEO OF THE ROBOT
-[SELF BALACING BOT VIDEO]{https://drive.google.com/file/d/1_SxAagJUW3OofHMXuxUm8yrXQoLHnXQo/view?usp=sharing}
+[SELF BALACING BOT VIDEO]{https://drive.google.com/file/d/1_SxAagJUW3OofHMXuxUm8yrXQoLHnXQo/view?usp=sharing)
 
